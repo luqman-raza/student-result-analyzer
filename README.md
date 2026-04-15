@@ -33,4 +33,9 @@ A beginner Python project that analyzes student marks, calculates average scores
 
 ---
 
+## 💻 Code Preview
+You can view the full code in the `main.py` file in this repository.
+
 ## 📸 Sample Output
+![Output](output.png)
+
